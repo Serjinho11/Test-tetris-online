@@ -1,0 +1,10 @@
+D:\Work\C#\Chat_s\Chat_s\bin\Debug\Chat_s.exe.config
+D:\Work\C#\Chat_s\Chat_s\bin\Debug\Chat_s.exe
+D:\Work\C#\Chat_s\Chat_s\bin\Debug\Chat_s.pdb
+D:\Work\C#\Chat_s\Chat_s\obj\Debug\Chat_s.csprojAssemblyReference.cache
+D:\Work\C#\Chat_s\Chat_s\obj\Debug\Chat_s.fServer.resources
+D:\Work\C#\Chat_s\Chat_s\obj\Debug\Chat_s.Properties.Resources.resources
+D:\Work\C#\Chat_s\Chat_s\obj\Debug\Chat_s.csproj.GenerateResource.cache
+D:\Work\C#\Chat_s\Chat_s\obj\Debug\Chat_s.csproj.CoreCompileInputs.cache
+D:\Work\C#\Chat_s\Chat_s\obj\Debug\Chat_s.exe
+D:\Work\C#\Chat_s\Chat_s\obj\Debug\Chat_s.pdb

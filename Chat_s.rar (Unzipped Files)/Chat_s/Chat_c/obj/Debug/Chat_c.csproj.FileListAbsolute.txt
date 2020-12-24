@@ -1,0 +1,19 @@
+D:\Work\C#\Chat_s\Chat_c\bin\Debug\Chat_c.exe.config
+D:\Work\C#\Chat_s\Chat_c\bin\Debug\Chat_c.exe
+D:\Work\C#\Chat_s\Chat_c\bin\Debug\Chat_c.pdb
+D:\Work\C#\Chat_s\Chat_c\obj\Debug\Chat_c.csprojAssemblyReference.cache
+D:\Work\C#\Chat_s\Chat_c\obj\Debug\Chat_c.fClient.resources
+D:\Work\C#\Chat_s\Chat_c\obj\Debug\Chat_c.Properties.Resources.resources
+D:\Work\C#\Chat_s\Chat_c\obj\Debug\Chat_c.csproj.GenerateResource.cache
+D:\Work\C#\Chat_s\Chat_c\obj\Debug\Chat_c.csproj.CoreCompileInputs.cache
+D:\Work\C#\Chat_s\Chat_c\obj\Debug\Chat_c.exe
+D:\Work\C#\Chat_s\Chat_c\obj\Debug\Chat_c.pdb
+C:\Users\Sergiu\Desktop\Chat_s.rar (Unzipped Files)\Chat_s\Chat_c\bin\Debug\Chat_c.exe.config
+C:\Users\Sergiu\Desktop\Chat_s.rar (Unzipped Files)\Chat_s\Chat_c\bin\Debug\Chat_c.exe
+C:\Users\Sergiu\Desktop\Chat_s.rar (Unzipped Files)\Chat_s\Chat_c\bin\Debug\Chat_c.pdb
+C:\Users\Sergiu\Desktop\Chat_s.rar (Unzipped Files)\Chat_s\Chat_c\obj\Debug\Chat_c.csprojAssemblyReference.cache
+C:\Users\Sergiu\Desktop\Chat_s.rar (Unzipped Files)\Chat_s\Chat_c\obj\Debug\Chat_c.fClient.resources
+C:\Users\Sergiu\Desktop\Chat_s.rar (Unzipped Files)\Chat_s\Chat_c\obj\Debug\Chat_c.Properties.Resources.resources
+C:\Users\Sergiu\Desktop\Chat_s.rar (Unzipped Files)\Chat_s\Chat_c\obj\Debug\Chat_c.csproj.GenerateResource.cache
+C:\Users\Sergiu\Desktop\Chat_s.rar (Unzipped Files)\Chat_s\Chat_c\obj\Debug\Chat_c.exe
+C:\Users\Sergiu\Desktop\Chat_s.rar (Unzipped Files)\Chat_s\Chat_c\obj\Debug\Chat_c.pdb
